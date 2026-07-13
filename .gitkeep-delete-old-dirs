@@ -1,0 +1,3 @@
+# This file is used to trigger a cleanup commit
+# The old discord-bot and discord-bot 3 directories should be deleted via git command:
+# git rm -r discord-bot "discord-bot 3"
