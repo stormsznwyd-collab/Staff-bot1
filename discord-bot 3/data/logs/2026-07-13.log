@@ -1,0 +1,6 @@
+[2026-07-13T02:58:07.308Z] [SUCCESS] Database initialized
+[2026-07-13T07:57:16.366Z] [SUCCESS] Database initialized
+[2026-07-13T07:57:16.390Z] [WARN] @napi-rs/canvas not installed — appeal cards will fall back to embeds. Run `npm install @napi-rs/canvas` to enable image cards.
+[2026-07-13T08:22:40.882Z] [SUCCESS] Database initialized
+[2026-07-13T08:22:40.912Z] [WARN] @napi-rs/canvas not installed — appeal cards will fall back to embeds. Run `npm install @napi-rs/canvas` to enable image cards.
+[2026-07-13T08:22:40.998Z] [SUCCESS] Loaded 29 commands

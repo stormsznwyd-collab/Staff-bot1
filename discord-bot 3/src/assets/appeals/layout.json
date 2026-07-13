@@ -1,0 +1,39 @@
+{
+  "_comment": "Per-status card layout. Coordinates are in pixels on the template image. 'cover' is the box painted over the baked 'Hello {user},' line; 'bgSample' is a clean background pixel sampled to refill it; 'pos' is the top-left where 'Hello NAME,' is redrawn. Swap the template PNGs and tweak these to match your own art / font.",
+  "accepted": {
+    "template": "accepted.png",
+    "cover": [40, 203, 362, 243],
+    "bgSample": [430, 222],
+    "pos": [42, 207],
+    "fontSize": 29,
+    "hello": "rgb(240,242,238)",
+    "name": "rgb(150,225,70)"
+  },
+  "denied": {
+    "template": "denied.png",
+    "cover": [40, 205, 362, 247],
+    "bgSample": [430, 224],
+    "pos": [42, 209],
+    "fontSize": 29,
+    "hello": "rgb(240,242,238)",
+    "name": "rgb(237,66,66)"
+  },
+  "anticheat": {
+    "template": "anticheat.png",
+    "cover": [40, 191, 360, 220],
+    "bgSample": [430, 205],
+    "pos": [42, 192],
+    "fontSize": 24,
+    "hello": "rgb(38,46,36)",
+    "name": "rgb(74,150,40)"
+  },
+  "pending": {
+    "template": "submitted.png",
+    "cover": [34, 192, 360, 218],
+    "bgSample": [430, 205],
+    "pos": [42, 192],
+    "fontSize": 22,
+    "hello": "rgb(46,40,42)",
+    "name": "rgb(200,32,44)"
+  }
+}
